@@ -1,0 +1,148 @@
+{
+    "jobs": [
+      [
+        {
+          "job_title": "Product Manager",
+          "experience_required": "5-7 years",
+          "location": "San Francisco, CA",
+          "eligibility": "Bachelor's degree in Business or related field",
+          "posted_date": "2023-10-17"
+        },
+        {
+          "job_title": "Graphic Designer",
+          "experience_required": "2-4 years",
+          "location": "New York, NY",
+          "eligibility": "Bachelor's degree in Graphic Design or a related field",
+          "posted_date": "2023-10-16"
+        },
+        {
+          "job_title": "Customer Support Specialist",
+          "experience_required": "1-3 years",
+          "location": "Austin, TX",
+          "eligibility": "High school diploma or equivalent",
+          "posted_date": "2023-10-15"
+        },
+        {
+          "job_title": "Financial Analyst",
+          "experience_required": "3-5 years",
+          "location": "Boston, MA",
+          "eligibility": "Bachelor's degree in Finance or a related field",
+          "posted_date": "2023-10-14"
+        },
+        {
+          "job_title": "Project Manager",
+          "experience_required": "5-7 years",
+          "location": "Seattle, WA",
+          "eligibility": "Bachelor's degree in Project Management or a related field",
+          "posted_date": "2023-10-13"
+        },
+        {
+          "job_title": "Web Developer",
+          "experience_required": "2-4 years",
+          "location": "Denver, CO",
+          "eligibility": "Bachelor's degree in Web Development or a related field",
+          "posted_date": "2023-10-12"
+        },
+        {
+          "job_title": "Human Resources Manager",
+          "experience_required": "5-7 years",
+          "location": "Philadelphia, PA",
+          "eligibility": "Bachelor's degree in Human Resources or a related field",
+          "posted_date": "2023-10-11"
+        },
+        {
+          "job_title": "Content Writer",
+          "experience_required": "1-3 years",
+          "location": "Miami, FL",
+          "eligibility": "Bachelor's degree in English, Journalism, or a related field",
+          "posted_date": "2023-10-10"
+        },
+        {
+          "job_title": "Network Engineer",
+          "experience_required": "3-5 years",
+          "location": "Houston, TX",
+          "eligibility": "Bachelor's degree in Computer Networking or a related field",
+          "posted_date": "2023-10-09"
+        },
+        {
+          "job_title": "Accountant",
+          "experience_required": "2-4 years",
+          "location": "San Diego, CA",
+          "eligibility": "Bachelor's degree in Accounting or a related field",
+          "posted_date": "2023-10-08"
+        },
+        {
+          "job_title": "Sales Manager",
+          "experience_required": "5-7 years",
+          "location": "Chicago, IL",
+          "eligibility": "Bachelor's degree in Business or related field",
+          "posted_date": "2023-10-07"
+        },
+        {
+          "job_title": "Software Developer",
+          "experience_required": "3-5 years",
+          "location": "Atlanta, GA",
+          "eligibility": "Bachelor's degree in Computer Science or related field",
+          "posted_date": "2023-10-06"
+        },
+        {
+          "job_title": "Legal Assistant",
+          "experience_required": "1-3 years",
+          "location": "Washington, D.C.",
+          "eligibility": "Associate's degree in Legal Studies or a related field",
+          "posted_date": "2023-10-05"
+        },
+        {
+          "job_title": "IT Support Specialist",
+          "experience_required": "2-4 years",
+          "location": "Phoenix, AZ",
+          "eligibility": "Associate's degree in IT or a related field",
+          "posted_date": "2023-10-04"
+        },
+        {
+          "job_title": "Marketing Coordinator",
+          "experience_required": "1-3 years",
+          "location": "Orlando, FL",
+          "eligibility": "Bachelor's degree in Marketing or a related field",
+          "posted_date": "2023-10-03"
+        },
+        {
+          "job_title": "Mechanical Engineer",
+          "experience_required": "3-5 years",
+          "location": "Detroit, MI",
+          "eligibility": "Bachelor's degree in Mechanical Engineering or a related field",
+          "posted_date": "2023-10-02"
+        },
+        {
+          "job_title": "Nurse Practitioner",
+          "experience_required": "5-7 years",
+          "location": "Nashville, TN",
+          "eligibility": "Master's degree in Nursing and relevant certification",
+          "posted_date": "2023-10-01"
+        },
+        {
+          "job_title": "Quality Assurance Analyst",
+          "experience_required": "2-4 years",
+          "location": "Minneapolis, MN",
+          "eligibility": "Bachelor's degree in Quality Assurance or a related field",
+          "posted_date": "2023-09-30"
+        },
+        {
+          "job_title": "Architect",
+          "experience_required": "5-7 years",
+          "location": "Portland, OR",
+          "eligibility": "Bachelor's degree in Architecture or a related field",
+          "posted_date": "2023-09-29"
+        },
+        {
+          "job_title": "Executive Assistant",
+          "experience_required": "3-5 years",
+          "location": "Raleigh, NC",
+          "eligibility": "Bachelor's degree in Business Administration or a related field",
+          "posted_date": "2023-09-28"
+        }
+      ]
+      
+    ]
+  }
+  
